@@ -111,7 +111,7 @@ function App() {
                   target="_blank"
                   rel="noreferrer"
                   aria-label="github"
-                  href=""
+                  href="https://github.com/SajalDevnath/SQL_Editor"
                 >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
