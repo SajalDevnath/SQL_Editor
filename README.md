@@ -2,7 +2,7 @@
 
 # SQL Editor
 
-![scr](https://user-images.githubusercontent.com/63285005/167256497-52e2285c-a8ce-43dc-aa27-d115a552ac51.jpg)
+![image](https://user-images.githubusercontent.com/63283752/208640264-2ecad159-95ad-4e27-9c08-3247b04f81ac.png)
 
 ## 🌏 Demo
 
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/website?url=https://www.codingspace.codes&logo=github&style=flat-square" />
 </a>
 
-Here : [SQL Editor](https://sql-editor-azure.vercel.app/)
+Here : [SQL Editor](https://sql-editor-theta.vercel.app/)
 
 ## 🎁 Features
 👉 Users can get data from either runing query on SQL Editor or the Sidebar Menu. \
@@ -38,26 +38,3 @@ Here : [SQL Editor](https://sql-editor-azure.vercel.app/)
 👉 For a faster page load, i used code splitting with 'React.Lazy()' and 'Suspense' to lazy load the components and separate javaScript into numerous parts utilising Dynamic runtime Imports.\
 👉 Optimized the render performance of functional components using 'React.Memo()'.\
 👉 Used the Lighthouse DevTools Extension to identify performance issues and implement their recommendations.
-##
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
