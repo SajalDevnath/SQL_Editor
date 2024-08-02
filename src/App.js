@@ -255,7 +255,7 @@ function App() {
                       />
                     </svg>{" "}
                     by Sajal Devnath */}
-                    Made while eating a 🍪
+                    Made with ❤
                   </div>
                 </div>
               </div>
